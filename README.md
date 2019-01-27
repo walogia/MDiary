@@ -1,8 +1,9 @@
 # MDiary
 为[kumawiki](https://github.com/walogia/kumawiki)使用Markdown写日记的小工具
 
-<p  align="center">![](https://github.com/walogia/MDiary/blob/master/MDiary/preview.png)</p>
-
+<div style="align: center">
+<img src="https://github.com/walogia/MDiary/blob/master/MDiary/preview.png"/>
+</div>
 
 # 协约内容
 ```
