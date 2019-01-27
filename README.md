@@ -25,5 +25,5 @@ QQ：2968976161
 ```
 
 ```
-所用图标来自 [www.easyicon.net](www.easyicon.net)
+所用图标来自 www.easyicon.net ，在此表示感谢
 ```
