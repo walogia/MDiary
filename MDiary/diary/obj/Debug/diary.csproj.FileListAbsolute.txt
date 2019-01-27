@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\diary\diary\bin\Debug\diary.exe.config
+C:\Users\Administrator\Desktop\diary\diary\bin\Debug\diary.exe
+C:\Users\Administrator\Desktop\diary\diary\bin\Debug\diary.pdb
+C:\Users\Administrator\Desktop\diary\diary\obj\Debug\diary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\diary\diary\obj\Debug\diary.MainForm.resources
+C:\Users\Administrator\Desktop\diary\diary\obj\Debug\diary.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\diary\diary\obj\Debug\diary.exe
+C:\Users\Administrator\Desktop\diary\diary\obj\Debug\diary.pdb
